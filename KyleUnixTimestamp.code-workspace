@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		},
+	],
+
+	"settings": {
+		"editor.fontFamily": "'Cascadia Code', 'JetBrains Mono', \"Ligalex Mono\", Consolas, 'Courier New', monospace",
+		"editor.fontLigatures": "'ss02', 'zero'",
+		"files.defaultLanguage": "typescript",
+		"github.copilot.advanced": {
+			"inlineSuggestCount": 20,
+			"length": 500,
+			"listCount": 10,
+		},
+
+		"typescript.inlayHints.enumMemberValues.enabled": true,
+		"emmet.excludeLanguages": [
+			"markdown",
+			"typescript",
+			"lua",
+			"luau",
+			"typescriptreact",
+		],
+	},
+
+	"extensions": {
+		"recommendations": [
+			"mattpocock.ts-error-translator",
+			"yoavbls.pretty-ts-errors",
+			"visualstudioexptteam.vscodeintellicode",
+			"mikestead.dotenv",
+			"denoland.vscode-deno",
+			"biomejs.biome",
+		],
+	},
+}

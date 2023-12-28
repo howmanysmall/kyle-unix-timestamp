@@ -1,0 +1,1 @@
+deno compile --output kyle-unix.exe src/index.ts

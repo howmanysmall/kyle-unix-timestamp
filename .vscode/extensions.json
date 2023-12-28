@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"mattpocock.ts-error-translator",
+		"yoavbls.pretty-ts-errors",
+		"visualstudioexptteam.vscodeintellicode",
+		"mikestead.dotenv",
+		"denoland.vscode-deno",
+		"biomejs.biome",
+	],
+}
