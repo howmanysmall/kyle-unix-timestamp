@@ -1,1 +1,1 @@
-deno compile --output kyle-unix.exe src/index.ts
+deno compile --output time-zoner.exe src/index.ts
